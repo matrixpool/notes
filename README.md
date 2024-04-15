@@ -1,0 +1,2 @@
+# notes
+working diary
