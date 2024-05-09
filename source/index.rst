@@ -12,6 +12,7 @@ Welcome to notes's documentation!
 
    ssl
    ktls
+   openssl
 
 
 Indices and tables
