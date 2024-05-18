@@ -14,7 +14,7 @@ author = 'Yong'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 latex_engine = 'xelatex'
 
-extensions = ['sphinx.ext.mathjax']
+extensions = ['sphinx.ext.mathjax','sphinxcontrib.tikz']
 numfig = True
 
 templates_path = ['_templates']

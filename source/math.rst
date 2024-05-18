@@ -18,3 +18,11 @@
    \dot{y} & = \rho x - y - xz \\
    \dot{z} & = -\beta z + xy
    \end{align*}
+
+.. tikz::
+
+    \begin{tikzpicture}
+        \draw (0,0) -- (4,0) -- (4,3) -- (0,3) -- cycle;
+        \draw (2,0) -- (2,3);
+        \draw (0,3) -- (4,3);
+    \end{tikzpicture}
