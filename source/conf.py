@@ -13,8 +13,11 @@ author = 'Yong'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 latex_engine = 'xelatex'
+latex_elements = {
+    'preamble': r'\usepackage{amssymb}',
+}
 
-extensions = ['sphinx.ext.mathjax','sphinxcontrib.tikz']
+extensions = ['sphinx.ext.mathjax','sphinxcontrib.tikz','sphinx.ext.graphviz']
 numfig = True
 
 templates_path = ['_templates']

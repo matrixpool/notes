@@ -1,28 +1,72 @@
 八下数据错题集
 ===================
 
-.. math::
-   E = mc^2
+1. 已知 :math:`x \geqslant y` , :math:`a < 0`, :math:`b > 0`,用不等式号连接下列各式的两边：
+   :math:`abx` _____ :math:`aby`
+2. 用不等式表示下列数之间的关系。
 
-.. math::
-   :label: eq1
+   a. a与-1之差小于 :math:`\frac{1}{2}`
 
-   E = mc^2
+   b. x的相反数与2的差不大于1
+
+3. 已知 :math:`a < b>`, 用“>”和“<”填空
+
+   a.  :math:`x^2a` ______  :math:`x^2b` ( :math:`{x}\neq{0}`)
+4. a分别满足什么条件时下列各式成立？
+
+    1) a > -a;
+    2) :math:`a^2` > a;
+    3) :math:`\frac{1}{a}` > a;
+    4) :math:`|a|` > a;
 
 
-.. math::
-   :label: eq2
+不等式的解集
+~~~~~~~~~~~~~~~~~~~~~
+1. 下列不等式的解集中，不包括-4的是（    ）
+   A.  :math:`x \leqslant -3` 
+   B.  :math:`x \geqslant -4`
+   C.  :math:`x \leqslant -5`
+   D.  :math:`x \geqslant -6`
 
-   \begin{align*}
-   \dot{x} & = \sigma(y - x) \\
-   \dot{y} & = \rho x - y - xz \\
-   \dot{z} & = -\beta z + xy
-   \end{align*}
+2. 用不等式表示如图所示的解集，正确的是（）
 
-.. tikz::
+.. image:: _static/2.3.2.png
+   :alt: 2-3-2
+   :width: 400
+   :align: center
 
-    \begin{tikzpicture}
-        \draw (0,0) -- (4,0) -- (4,3) -- (0,3) -- cycle;
-        \draw (2,0) -- (2,3);
-        \draw (0,3) -- (4,3);
-    \end{tikzpicture}
+3. 下列说法正确的是_____(填序号)。
+   
+    A. 5不是y - 7 > 6的解；
+    B. x = 4 是不等式x + 3 > 5的解集；
+    C. 不等式x + 1 < 2有正整数解;
+
+4. 不等式2x - 3 < 2的非负整数解有___个。
+5. 在数轴上表示下列不等式的解集。
+
+   A.  :math:`x \leqslant -5`;
+   B.  :math:`-2 < -x + 3`
+
+6. 求不等式  :math:`-2x \leqslant 6` 的解集，把它的解集表示在数轴上，并求出解集中的非正整数解。
+7. 如图，直线l经过第二、三、四象极，直线l的解析式是 :math:`y = (m + 2)x + n`,则m的取值范围在数轴上表示为(  )。
+
+.. image:: _static/2.3.14.png
+   :alt: 2-3-14
+   :width: 400
+   :align: center
+
+8. (1)若不等式(m - 2)x > 2 - m的解集为 x < -1,则m的取值范围是___________________;
+
+   (2)若不等式ax - 2 > 0的解集为x < -2,则关于y的方程ay + 2 = 0的解为_____;
+
+一元一次不等式(一)
+~~~~~~~~~~~~~~~~~~~~~~
+1. 满足7x - 6 > 4x - 10的最小整数解是__________; 不等式 :math:`4 - 3x \geqslant 2x - 6` 的非整数解有____________;
+
+2. 若不等式 :math:`\frac{2x - 1}{3}` -  :math:`\frac{5x + 1}{2}` :math:`\leqslant` 1
+   的最小整数解是方程x = 1 +  :math:`\frac{m -3}{2}` 的解，求m的值。
+
+3. 已知 :math:`3x + 4 \leqslant 6 + 2(x - 2)` ,则|x+1|的最小值为______;
+4. (1) 已知关于x，y的方程组 :math:`\begin{cases} x - y = 3, \\  2x + y = 6a \end{cases}` 的解
+   满足不等式x + y < 3,求实数a的取值范围；
+   (2)已知关于x的不等式x -b > 0恰有两个负整数解，求b的取值范围;  
