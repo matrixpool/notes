@@ -154,6 +154,11 @@
 图形平移(一)
 ~~~~~~~~~~~~~~~~~~~~
 
+ :tikz:`\begin{tikzpicture} \draw (0,0) -- (1,1); \draw (1,0) -- (0,1); \end{tikzpicture}`
+
+ :tikz:`\begin{tikzpicture} \draw (0,1) -- ++(1,-1) -- +(1,2); \end{tikzpicture}`
+
+
 
 
 
