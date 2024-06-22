@@ -14,6 +14,8 @@ Welcome to notes's documentation!
    ktls
    openssl
    math
+   math1
+   polygon
 
 
 Indices and tables
