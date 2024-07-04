@@ -16,6 +16,7 @@ Welcome to notes's documentation!
    math
    math1
    polygon
+   test
 
 
 Indices and tables
