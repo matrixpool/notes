@@ -15,8 +15,11 @@ Welcome to notes's documentation!
    openssl
    math
    math1
+<<<<<<< HEAD
    polygon
    test
+=======
+>>>>>>> 6ff66cf (Ìύ´íÌ⼯)
 
 
 Indices and tables
